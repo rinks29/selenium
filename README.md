@@ -14,4 +14,5 @@ o   Send out the order
 ## My approach
 
 I wrote seleniumWrapper class that includes methods that may be reused.
+
 OrdersTest is the class which contains the actual test.
