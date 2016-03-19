@@ -11,3 +11,7 @@ o   Verify that data given in order that you just made has passed correctly to a
 
 o   Send out the order
 
+## My approach
+
+I wrote seleniumWrapper class that includes methods that may be reused.
+OrdersTest is the class which contains the actual test.
